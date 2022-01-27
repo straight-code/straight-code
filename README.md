@@ -5,6 +5,9 @@
 - 📫 How to reach me:
 
 
-Telegram: @straight-code
+Website: https://straight-code.github.io
+Telegram: @straight-code 
+<br>
 Youtube : https://www.youtube.com/channel/UC2xGShd5vc9FRT4wpeXYepw
+<br>
 or Github!✨
