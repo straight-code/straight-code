@@ -9,8 +9,8 @@
 ![Website](https://img.shields.io/website?down_color=orange&down_message=Down%20For%20Maintenance&style=plastic&up_color=green&up_message=Live&url=https%3A%2F%2Fstraight-code.github.io)
 <br>
 ![Twitter Follow](https://img.shields.io/twitter/follow/straight_code28?style=social)  ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fstraight_code28)
-![Telegram]("https://t.me/@straight-code28")
 <br>
-![Youtube]("https://www.youtube.com/channel/UC2xGShd5vc9FRT4wpeXYepw") ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC2xGShd5vc9FRT4wpeXYepw?style=social)
+
+![Youtube]("https://www.youtube.com/channel/UC2xGShd5vc9FRT4wpeXYepw") ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC2xGShd5vc9FRT4wpeXYepw?style=plastic)
 <br>
 or Github!✨
