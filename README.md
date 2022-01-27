@@ -4,6 +4,5 @@
 - 💞️ I’m looking to collaborate on a few open source projects in the year 2022! 
 - 📫 How to reach me:
 
-Can Email me at straight.code28@gmail.com
-or telegram at @straight-code
-or github!✨
+Telegram: @straight-code
+or Github!✨
