@@ -10,7 +10,7 @@
 
 ## Hi there 👋, my name is straight-code
 
-### I'm content creator on Design and Development. I really enjoy learning new languages and frameworks like React, React Native as well as work in Web3. i also enjoy ui, web3 and design in general.
+### I'm content creator on Design and Development. I really enjoy learning new languages and frameworks like React, React Native as well as work in Web3. i also enjoy ui, ux and design in general.
 
 ## Skills:  
  - REACT 
