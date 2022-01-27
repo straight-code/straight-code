@@ -6,5 +6,5 @@
 
 
 Telegram: @straight-code
+Youtube : https://www.youtube.com/channel/UC2xGShd5vc9FRT4wpeXYepw
 or Github!✨
-[Youtube]("https://www.youtube.com/channel/UC2xGShd5vc9FRT4wpeXYepw")
