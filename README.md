@@ -5,7 +5,7 @@
 - 📫 How to reach me:
 
 
-Website: https://straight-code.github.io#
+Website: https://straight-code.github.io
 <br>
 Telegram: @straight-code 
 <br>
