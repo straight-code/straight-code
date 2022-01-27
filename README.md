@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @straight-code
-- 🌱 I’m currently learning everything, am self taught and have now been in the space of over 3 years now and now currently working with Solidity and have been since Q1 2021
-- 💞️ I’m looking to collaborate on a few open source projects in the year 2022! 
-- 📫 How to reach me:
-<br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=straight-code&show_icons=true&theme=radical)
+
+![straight-code GitHub stats](https://github-readme-stats.vercel.app/api?username=straight-code&show_icons=true&theme=radical)
+
+<br>
+- 👋 Hi, I’m @straight-code
+- 🌱 I’m currently learning everyday, am self taught and have now been in the space of over 3 years, Working with Solidity is fun i love building dapps and web design!
+- 💞️ I’m looking to collaborate on a few open source projects in the year 2022! 
 
 <br>
 
