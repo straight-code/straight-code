@@ -3,8 +3,11 @@
 - 💞️ I’m looking to collaborate on a few open source projects in the year 2022! 
 - 📫 How to reach me:
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=straight-code)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=straight-code&show_icons=true&theme=radical)
+
 <br>
+
 ![Website](https://img.shields.io/website?down_color=orange&down_message=Down%20For%20Maintenance&style=plastic&up_color=green&up_message=Live&url=https%3A%2F%2Fstraight-code.github.io)
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/straight_code28?style=social) 
