@@ -1,4 +1,4 @@
-https://img.shields.io/github/followers/straight-code?style=social
+![GitHub followers](https://img.shields.io/github/followers/straight-code?style=social)
 <br>
 - 👋 Hi, I’m @straight-code
 - 🌱 I’m currently learning everything, am self taught and have now been in the space of over 3 years now and now currently working with Solidity and have been since Q1 2021
@@ -8,10 +8,10 @@ https://img.shields.io/github/followers/straight-code?style=social
 
 ![Website]("https://straight-code.github.io")
 <br>
-https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fstraight_code28
+![Twitter Follow](https://img.shields.io/twitter/follow/straight_code28?style=social)
 <br>
 ![Telegram]("https://t.me/@straight-code28")
 <br>
-![Youtube]("https://www.youtube.com/channel/UC2xGShd5vc9FRT4wpeXYepw")
+![Youtube]("https://www.youtube.com/channel/UC2xGShd5vc9FRT4wpeXYepw") ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC2xGShd5vc9FRT4wpeXYepw?style=social)
 <br>
 or Github!✨
