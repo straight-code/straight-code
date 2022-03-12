@@ -8,7 +8,8 @@
 <img src="https://straight-code.github.io/assets/straight-code-banner.png" width="auto" />
 
 
-## Hi there 👋, my name is straight-code
+## Hi there 👋, my name is straight-code 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/straight-code)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/straight_code28)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC2xGShd5vc9FRT4wpeXYepw)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://straight-code.github.io)  
 
 ### I'm content creator on Design and Development. I really enjoy learning new languages and frameworks like React, React Native as well as work in Web3. i also enjoy ui, ux and design in general.
 
