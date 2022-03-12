@@ -14,7 +14,9 @@
 
 ## Skills:  
  - REACT 
+ - REACT Native
  - JS
+ - TYPESCRIPT
  - HTML
  - CSS 
  - SOLIDITY
