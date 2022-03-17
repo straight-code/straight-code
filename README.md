@@ -1,8 +1,12 @@
+<div align='center'>
+ 
 ![Twitter Follow](https://img.shields.io/twitter/follow/straight_code28?style=social)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC2xGShd5vc9FRT4wpeXYepw?style=plastic)
 ![GitHub followers](https://img.shields.io/github/followers/straight-code?style=social)
 ![Profile views](https://gpvc.arturio.dev/straight-code) 
 
+ </div>
+ 
 [![straight-code' github activity graph](https://activity-graph.herokuapp.com/graph?username=straight-code&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h1 align='center'><img src="https://straight-code.github.io/assets/straight-code-banner.png" width="auto" /></h1>
