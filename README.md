@@ -5,35 +5,118 @@
 
 [![straight-code' github activity graph](https://activity-graph.herokuapp.com/graph?username=straight-code&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img src="https://straight-code.github.io/assets/straight-code-banner.png" width="auto" />
+<h1 align='center'><img src="https://straight-code.github.io/assets/straight-code-banner.png" width="auto" /></h1>
 
+<h2 align='center'> <i>Hello, there! <img src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/wave.gif" width="30px"></h2>  
+ <h2 align='center'> my name is straight-code </h2>
 
-## Hi there 👋, my name is straight-code 
+  <br/>
+  <div align='center'>
+    
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/straight-code)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/straight_code28)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC2xGShd5vc9FRT4wpeXYepw)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://straight-code.github.io)  
+  
+  </div>
+  
 
-### I'm content creator on Design and Development. I really enjoy learning new languages and frameworks like React, React Native as well as work in Web3. i also enjoy ui, ux and design in general.
+ <h4 align='center'> I'm content creator on Design and Development. I really enjoy learning new languages and frameworks like React, React Native as well as work in Web3. i also enjoy ui, ux and design in general. </h4>
+  
+  <br/>
+  <br/>
 
-## Languages and Tools:
+  <h1 align='center'> Languages and Tools: </h1>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+<table width="100">
+<tr>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg">
+    </td>
+     <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg">
+    </td>
+    <td align='center'  width="190">
+        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
+    </td>
+</tr>
+<tr>
+    <td align='center' width="190">
+        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60">
+    </td>
+     <td align='center' width="190">
+        <img src="https://github.com/detain/svg-logos/blob/master/svg/git.svg" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://github.com/prplx/svg-logos/blob/master/svg/redux.svg" width="120">
+    </td>
+</tr>
+<tr>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" style="width: 75px;">
+    </td>
+</tr>
+  <tr>
+    <td align='center'>
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="width: 75px;">
+    </td>
+    <td align='center'>
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="width: 75px;">
+    </td>
+    <td align='center'>
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="width: 75px;">
+    </td>
+    <td align='center'>
+        <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" style="width: 75px;">
+    </td>
+    <td align='center'>
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" style="width: 75px;">
+    </td>
+</tr>
+</table>
+
+
+
+# activity
 <br/>
 <br/>
+  <div align='center'>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=straight-code)  
 
+  </div>
+  
 ## Check out my socials
-
+<div align='center'>
+  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/straight-code)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/straight_code28)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC2xGShd5vc9FRT4wpeXYepw)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://straight-code.github.io)  
 
+  </div>
 <br>
+<br/>
+  <div align='center'>
 
 ## My Github Stats
 
@@ -55,3 +138,4 @@
 
 https://straight-code.github.io : ![Website](https://img.shields.io/website?down_color=orange&down_message=Down%20For%20Maintenance&style=plastic&up_color=green&up_message=Live&url=https%3A%2F%2Fstraight-code.github.io)
 
+  </div>
