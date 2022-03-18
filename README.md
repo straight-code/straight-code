@@ -9,7 +9,7 @@
  
 [![straight-code' github activity graph](https://activity-graph.herokuapp.com/graph?username=straight-code&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<h1 align='center'><img src="https://straight-code.github.io/assets/straight-code-banner.png" width="auto" /></h1>
+<h1 align='center'><img src="https://straight-code.github.io/assets/straight-code-banner.png" style="width="512px";height:"auto";" /></h1>
 
 <h2 align='center'> <i>Hello, there! <img src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/wave.gif" width="30px"></h2>  
  <h2 align='center'> my name is straight-code </h2>
