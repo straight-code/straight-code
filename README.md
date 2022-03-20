@@ -22,7 +22,22 @@
   </div>
   
 
- <h4 align='center'> I'm content creator on Design and Development. I really enjoy learning new languages and frameworks like React, React Native as well as work in Web3. i also enjoy ui, ux and design in general. </h4>
+ <h4 align='center'> 
+ I am a web developer and UX designer based in the UK.
+
+I really enjoy solving problems as well as making things pretty and easy to use. I can't stop learning new things; the more, the better. I also love contributing to the open-source community. Oh, and Flaming Hot Monster Munch; My favourite!
+
+# What does he do?
+
+I'm a programmer. I say No Stack To Full Stack
+For the front-end I usually work with Javascript, either standalone or including popular frameworks like ReactJS and VueJS or sometimes i like working with Astro. I also make the web pretty by using Sass, CSS and, whenever needed, any of their friends: Bootstrap, Bulma, etc.
+
+For the back-end I also work with Javascript (NodeJS, Express, MongoDB, Git, etc). But, of course, whenever the project requires PHP, I do PHP as well (Wordpress, Laravel, etc).
+
+Also a designer.
+I feel comfortable working with many Adobe products. Photoshop, Illustrator, Lightroom or Xd are some kind of industry standards and I love working with them. I'm not limited to them, though: Gimp, Inkscape, Blender or Figma are also very valid applications that I've been working with.
+
+User interfaces, brochures, moblie app, emails, branding... You name it! As I mentioned, creating pretty things is particularly important for me.</h4>
   
   <br/>
   <br/>
