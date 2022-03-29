@@ -1,8 +1,9 @@
 <div align='center'>
  
-![Twitter Follow](https://img.shields.io/twitter/follow/straight_code28?style=social)
+![GitHub Sponsors](https://img.shields.io/github/sponsors/straight-code?style=plastic)
+![Twitter Follow](https://img.shields.io/twitter/follow/straight_code28?style=plastic)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC2xGShd5vc9FRT4wpeXYepw?style=plastic)
-![GitHub followers](https://img.shields.io/github/followers/straight-code?style=social)
+![GitHub followers](https://img.shields.io/github/followers/straight-code?style=plastic)
 ![Profile views](https://gpvc.arturio.dev/straight-code) 
 
  </div>
