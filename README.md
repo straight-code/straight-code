@@ -18,7 +18,7 @@
 
 </h1>
 
-<h2 align='center'> <i>Hello, there! <img src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/wave.gif" width="30px"></h2>  
+<h2 align='center'> <i>Hello, there! <img src="https://straight-code.github.io/assets/wave.gif" width="30px"></h2>  
  <h2 align='center'> my name is straight-code </h2>
 
   <br/>
