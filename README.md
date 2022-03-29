@@ -25,7 +25,8 @@
   <br/>
   <div align='center'>
     
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' padding='50'>](https://github.com/straight-code)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40' padding='50'>](https://twitter.com/straight_code28)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40' padding='50'>](https://www.youtube.com/channel/UC2xGShd5vc9FRT4wpeXYepw)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40' padding='50'>](https://straight-code.github.io)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' padding='50'>](https://github.com/straight-code)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40' padding='50'>](https://twitter.com/straight_code28)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40' padding='50'>](https://www.youtube.com/channel/UC2xGShd5vc9FRT4wpeXYepw)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40' padding='50'>](https://straight-code.github.io)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40' padding='50'>](https://straight-code2.github.io)  
+  
   
   </div>
   
